@@ -242,7 +242,7 @@ export default function Home() {
                 size: "medium",
               },
               {
-                src: "/trabajo4.jpg",
+                src: "/seguridadniños.jpg",
                 alt: "Seguridad para niños",
                 size: "medium",
               },
